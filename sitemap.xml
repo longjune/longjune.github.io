@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://longjune.github.io/2020/03/14/%E9%9D%A2%E5%90%91%E5%88%9D%E5%AD%A6%E8%80%85%E7%9A%84python%E7%BC%96%E8%BE%91%E5%99%A8%E9%80%89%E6%8B%A9/</loc>
+    <loc>https://longjune.github.io/%E5%85%B3%E4%BA%8E/index.html</loc>
     
-    <lastmod>2020-03-14T14:53:26.957Z</lastmod>
+    <lastmod>2020-03-14T15:36:56.937Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://longjune.github.io/%E5%88%86%E7%B1%BB/index.html</loc>
+    
+    <lastmod>2020-03-14T15:21:20.841Z</lastmod>
     
   </url>
   
@@ -16,23 +23,9 @@
   </url>
   
   <url>
-    <loc>https://longjune.github.io/%E5%85%B3%E4%BA%8E/index.html</loc>
-    
-    <lastmod>2020-03-14T13:38:51.153Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://longjune.github.io/2020/03/13/first%20blog/</loc>
     
     <lastmod>2020-03-14T13:38:34.971Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://longjune.github.io/%E5%88%86%E7%B1%BB/index.html</loc>
-    
-    <lastmod>2020-03-14T09:21:17.123Z</lastmod>
     
   </url>
   
